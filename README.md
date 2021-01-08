@@ -92,3 +92,4 @@ VS Code Team
 Copyright (c) Microsoft Corporation and ZainChen. All rights reserved.
 
 Licensed under the [MIT](https://github.com/ZainChen/vscode-json/blob/master/LICENSE.md) License.
+#1
